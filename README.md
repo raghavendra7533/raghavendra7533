@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raghavendra</h1>
 <h3 align="center">A passionate Student, and an avid learner from India</h3>
 
-- 🔭 I’m currently working on [100 Days of Python](https://github.com/raghavendra7533/100DaysofCode) and [API CHALLENGE](https://github.com/raghavendra7533/Flask-API-APICHALLENGE)
+- 🔭 I’m currently working on [Nodejs-Start]()
 
-- 🌱 I’m currently learning **Flask, Robot Framework**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Python Projects, Node Projects**
 
 - 📫 How to reach me **raghavendra8076@gmail.com**
 
