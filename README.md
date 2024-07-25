@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghavendra</h1>
-<h3 align="center">A passionate Student, and an avid learner from India</h3>
+<h3 align="center">A passionate Student, Product Enthusiast, and an avid learner from Bangalore, India</h3>
 
-- 🔭 I’m currently working on **[Nodejs-Start](https://github.com/raghavendra7533/NodejsStart)**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 👯 I’m looking to collaborate on **Python Projects, Node Projects**
+- 🌱 I’m currently learning **Product Management**
 
 - 📫 How to reach me **raghavendra8076@gmail.com**
 
