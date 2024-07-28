@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **Product Management**
 
+- 📝 My Flask [CRUD API Repo](https://github.com/raghavendra7533/Flask-API-APICHALLENGE)
+
+- 👨‍💻 My [100 days of Python](https://github.com/raghavendra7533/100DaysofCode) Repo 
+
 - 📫 How to reach me **raghavendra8076@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
